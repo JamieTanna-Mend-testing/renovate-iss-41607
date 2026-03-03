@@ -65,7 +65,7 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "boto3", specifier = ">=1.39.9" }]
+requires-dist = [{ name = "boto3", specifier = ">=1.41.2" }]
 
 [[package]]
 name = "s3transfer"

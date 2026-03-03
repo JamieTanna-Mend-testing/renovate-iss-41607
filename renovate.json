@@ -3,5 +3,6 @@
 	"extends": [
 		"config:best-practices"
 	],
-	"minimumReleaseAge": "7 days"
+	"minimumReleaseAge": "7 days",
+	"rangeStrategy": "update-lockfile"
 }
